@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Mario Grd",
+  "classifications": [ "Web" ],
+  "identity": "Company.Service",
+  "name": "Company.Service",
+  "shortName": "company-service",
+  "preferNameDirectory": true,
+  "sourceName": "Company.Service",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  }
+}
